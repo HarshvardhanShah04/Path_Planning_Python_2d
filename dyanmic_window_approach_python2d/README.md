@@ -1,4 +1,4 @@
-# Dynamic Window Approach (DWA) - Python
+# Dynamic Window Approach (DWA) Python2d
 
 This project is a simple implementation of the **Dynamic Window Approach (DWA)** for robot path planning and obstacle avoidance using Python.
 
@@ -6,7 +6,7 @@ The robot starts from an initial position and tries to reach a given goal while 
 
 ## How it Works
 
-DWA is a local path planning algorithm which works by predicting different possible trajectories of the robot and selecting the best one.
+DWA is a local path planning algorithm which works by predicting different possible trajectories of the robot, selecting the best one...moving forward, again predicting from the new states, selecting the best trajectory...moving forward...and the process continues
 
 The algorithm follows these steps:
 
