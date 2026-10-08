@@ -96,7 +96,7 @@ Install the required libraries:
 pip install numpy matplotlib
 ```
 
-## Demonstration Videos
+## Demonstration Videos (tap/click to view)
 
 ### Vd-1
 
